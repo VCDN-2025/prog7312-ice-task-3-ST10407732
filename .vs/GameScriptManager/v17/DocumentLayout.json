@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|c:\\users\\davyc\\source\\repos\\gamescriptmanager\\storynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|solutionrelative:storynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|c:\\users\\davyc\\source\\repos\\gamescriptmanager\\storylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|solutionrelative:storylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|c:\\users\\davyc\\source\\repos\\gamescriptmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|c:\\users\\davyc\\source\\repos\\gamescriptmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D7FB7-E3D8-4E84-81D9-379458D5D9AD}|GameScriptManager.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 36,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryNode.cs",
+              "DocumentMoniker": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\StoryNode.cs",
+              "RelativeDocumentMoniker": "StoryNode.cs",
+              "ToolTip": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\StoryNode.cs",
+              "RelativeToolTip": "StoryNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:42:54.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoryLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\StoryLinkedList.cs",
+              "RelativeDocumentMoniker": "StoryLinkedList.cs",
+              "ToolTip": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\StoryLinkedList.cs",
+              "RelativeToolTip": "StoryLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:42:21.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:41:39.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\davyc\\source\\repos\\GameScriptManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:38:33.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 364,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

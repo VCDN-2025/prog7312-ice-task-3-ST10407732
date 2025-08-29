@@ -1,0 +1,14 @@
+C:\Users\davyc\source\repos\GameScriptManager\bin\Debug\net8.0-windows\GameScriptManager.exe
+C:\Users\davyc\source\repos\GameScriptManager\bin\Debug\net8.0-windows\GameScriptManager.deps.json
+C:\Users\davyc\source\repos\GameScriptManager\bin\Debug\net8.0-windows\GameScriptManager.runtimeconfig.json
+C:\Users\davyc\source\repos\GameScriptManager\bin\Debug\net8.0-windows\GameScriptManager.dll
+C:\Users\davyc\source\repos\GameScriptManager\bin\Debug\net8.0-windows\GameScriptManager.pdb
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\GameScriptManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\GameScriptManager.AssemblyInfoInputs.cache
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\GameScriptManager.AssemblyInfo.cs
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\GameScriptManager.csproj.CoreCompileInputs.cache
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\GameScriptManager.dll
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\refint\GameScriptManager.dll
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\GameScriptManager.pdb
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\GameScriptManager.genruntimeconfig.cache
+C:\Users\davyc\source\repos\GameScriptManager\obj\Debug\net8.0-windows\ref\GameScriptManager.dll
